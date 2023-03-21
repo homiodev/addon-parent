@@ -7,7 +7,7 @@
     <version>2.4.4</version>
   </parent>
 
-  <version>1.2.1</version>
+  <version>1.2.2-SNAPSHOT</version>
 
   <artifactId>addon-parent</artifactId>
   <packaging>pom</packaging>
@@ -20,7 +20,7 @@
     <url>https://github.com/touchhome/${artifactId}</url>
     <connection>scm:git:https://github.com/touchhome/${artifactId}.git</connection>
     <developerConnection>scm:git:https://github.com/touchhome/${artifactId}.git</developerConnection>
-    <tag>v1.2.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
