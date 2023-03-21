@@ -14,7 +14,7 @@
 
   <name>Touchhome :: BOM (Bill of Materials) Addon Parent</name>
   <description>${project.name}</description>
-  <url>https://github.com/touchhome/touchhome-addon</url>
+  <url>https://github.com/touchhome/${project.artifactId}</url>
 
   <scm>
     <url>https://github.com/touchhome/${project.artifactId}</url>
