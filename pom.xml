@@ -9,7 +9,7 @@
 
   <version>1.2.2-SNAPSHOT</version>
 
-  <artifactId>touchhome-addon</artifactId>
+  <artifactId>addon</artifactId>
   <packaging>pom</packaging>
 
   <name>Touchhome :: BOM (Bill of Materials) Addon Parent</name>
@@ -17,9 +17,9 @@
   <url>https://github.com/touchhome/touchhome-addon</url>
 
   <scm>
-    <url>https://github.com/touchhome/addon</url>
-    <connection>scm:git:https://github.com/touchhome/addon.git</connection>
-    <developerConnection>scm:git:https://github.com/touchhome/addon.git</developerConnection>
+    <url>https://github.com/touchhome/${project.artifactId}</url>
+    <connection>scm:git:https://github.com/touchhome/${project.artifactId}.git</connection>
+    <developerConnection>scm:git:https://github.com/touchhome/${project.artifactId}.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
