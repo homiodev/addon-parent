@@ -1,1 +1,1 @@
-# addon
+# Parent bom for addons
