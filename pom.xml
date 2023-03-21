@@ -18,9 +18,9 @@
   <url>https://github.com/touchhome/touchhome-addon</url>
 
   <scm>
-    <url>https://github.com/touchhome/${project.artifactId}</url>
-    <connection>scm:git:https://github.com/touchhome/${project.artifactId}.git</connection>
-    <developerConnection>scm:git:https://github.com/touchhome/${project.artifactId}.git</developerConnection>
+    <url>https://github.com/touchhome/addon</url>
+    <connection>scm:git:https://github.com/touchhome/addon.git</connection>
+    <developerConnection>scm:git:https://github.com/touchhome/addon.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
