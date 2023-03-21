@@ -31,29 +31,31 @@
 
   <dependencies>
     <dependency>
-      <artifactId>touchhome-hquery</artifactId>
-      <groupId>org.touchhome</groupId>
-      <scope>provided</scope>
-      <version>1.0</version>
-    </dependency>
-    <dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
       <scope>provided</scope>
     </dependency>
     <dependency>
-      <artifactId>touchhome-hquery</artifactId>
-      <groupId>org.touchhome</groupId>
-      <scope>provided</scope>
-      <version>1.0</version>
-    </dependency>
-    <dependency>
       <artifactId>touchhome-bundle-api</artifactId>
       <groupId>org.touchhome</groupId>
       <scope>provided</scope>
-      <version>1.2.1</version>
     </dependency>
   </dependencies>
+
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <artifactId>touchhome-hquery</artifactId>
+        <groupId>org.touchhome</groupId>
+        <version>1.0</version>
+      </dependency>
+      <dependency>
+        <artifactId>touchhome-bundle-api</artifactId>
+        <groupId>org.touchhome</groupId>
+        <version>1.2.1</version>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
 
   <build>
     <plugins>
