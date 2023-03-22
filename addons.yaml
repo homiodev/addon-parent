@@ -1,27 +1,26 @@
-addons:
-  gdrive:
-    repository: touchhome/addon-gdrive
-  dropbox:
-    repository: touchhome/addon-dropbox
-  firmata:
-    repository: touchhome/addon-firmata
-  ftp:
-    repository: touchhome/addon-ftp
-  g-tts:
-    repository: touchhome/addon-gcloud_tts
-  gpio:
-    repository: touchhome/addon-gpio
-  influxdb:
-    repository: touchhome/addon-influxdb
-  ipscanner:
-    repository: touchhome/addon-ipscanner
-  mail:
-    repository: touchhome/addon-mail
-  mongodb:
-    repository: touchhome/addon-mongodb
-  rabbit:
-    repository: touchhome/addon-rabbitmq
-  serial:
-    repository: touchhome/addon-serial
-  weather:
-    repository: touchhome/addon-weather
+gdrive:
+  repository: touchhome/addon-gdrive
+dropbox:
+  repository: touchhome/addon-dropbox
+firmata:
+  repository: touchhome/addon-firmata
+ftp:
+  repository: touchhome/addon-ftp
+g-tts:
+  repository: touchhome/addon-gcloud_tts
+gpio:
+  repository: touchhome/addon-gpio
+influxdb:
+  repository: touchhome/addon-influxdb
+ipscanner:
+  repository: touchhome/addon-ipscanner
+mail:
+  repository: touchhome/addon-mail
+mongodb:
+  repository: touchhome/addon-mongodb
+rabbit:
+  repository: touchhome/addon-rabbitmq
+serial:
+  repository: touchhome/addon-serial
+weather:
+  repository: touchhome/addon-weather
