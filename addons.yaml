@@ -1,41 +1,41 @@
 gdrive:
-  version: 1.0.0
+  version: v1.0.0
   repository: touchhome/addon-gdrive
 dropbox:
-  version: 1.0.0
+  version: v1.0.0
   repository: touchhome/addon-dropbox
 firmata:
-  version: 1.0.0
+  version: v1.0.0
   repository: touchhome/addon-firmata
 ftp:
-  version: 1.0.0
+  version: v1.0.0
   repository: touchhome/addon-ftp
 g-tts:
-  version: 1.0.0
+  version: v1.0.0
   repository: touchhome/addon-gcloud_tts
 gpio:
-  version: 1.0.0
+  version: v1.0.0
   repository: touchhome/addon-gpio
 influxdb:
-  version: 1.0.0
+  version: v1.0.0
   repository: touchhome/addon-influxdb
 ipscanner:
-  version: 1.0.0
+  version: v1.0.0
   repository: touchhome/addon-ipscanner
 mail:
-  version: 1.0.0
+  version: v1.0.0
   repository: touchhome/addon-mail
 mongodb:
-  version: 1.0.0
+  version: v1.0.0
   repository: touchhome/addon-mongodb
 rabbitmq:
-  version: 1.0.0
+  version: v1.0.0
   repository: touchhome/addon-rabbitmq
 serial:
-  version: 1.0.0
+  version: v1.0.0
   repository: touchhome/addon-serial
 weather:
-  version: 1.0.0
+  version: v1.0.0
   repository: touchhome/addon-weather
 rf433:
   repository: touchhome/addon-rf433
