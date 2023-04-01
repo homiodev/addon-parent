@@ -1,43 +1,43 @@
 gdrive:
   version: v1.0.0
-  repository: touchhome/addon-gdrive
+  repository: homio/addon-gdrive
 dropbox:
   version: v1.0.0
-  repository: touchhome/addon-dropbox
+  repository: homio/addon-dropbox
 firmata:
   version: v1.0.0
-  repository: touchhome/addon-firmata
+  repository: homio/addon-firmata
 ftp:
   version: v1.0.0
-  repository: touchhome/addon-ftp
+  repository: homio/addon-ftp
 g-tts:
   version: v1.0.0
-  repository: touchhome/addon-gcloud_tts
+  repository: homio/addon-gcloud_tts
 gpio:
   version: v1.0.0
-  repository: touchhome/addon-gpio
+  repository: homio/addon-gpio
 influxdb:
   version: v1.0.0
-  repository: touchhome/addon-influxdb
+  repository: homio/addon-influxdb
 ipscanner:
   version: v1.0.0
-  repository: touchhome/addon-ipscanner
+  repository: homio/addon-ipscanner
 mail:
   version: v1.0.0
-  repository: touchhome/addon-mail
+  repository: homio/addon-mail
 mongodb:
   version: v1.0.0
-  repository: touchhome/addon-mongodb
+  repository: homio/addon-mongodb
 rabbitmq:
   version: v1.0.0
-  repository: touchhome/addon-rabbitmq
+  repository: homio/addon-rabbitmq
 serial:
   version: v1.0.0
-  repository: touchhome/addon-serial
+  repository: homio/addon-serial
 weather:
   version: v1.0.0
-  repository: touchhome/addon-weather
+  repository: homio/addon-weather
 rf433:
-  repository: touchhome/addon-rf433
+  repository: homio/addon-rf433
 zigbee:
-  repository: touchhome/addon-zigbee
+  repository: homio/addon-zigbee
