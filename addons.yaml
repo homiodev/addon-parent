@@ -1,43 +1,43 @@
 gdrive:
-  version: v1.0.0
-  repository: homio/addon-gdrive
+  version: v1.0.1
+  repository: homiodev/addon-gdrive
 dropbox:
-  version: v1.0.0
-  repository: homio/addon-dropbox
+  version: v1.0.1
+  repository: homiodev/addon-dropbox
 firmata:
-  version: v1.0.0
-  repository: homio/addon-firmata
+  version: v1.0.1
+  repository: homiodev/addon-firmata
 ftp:
-  version: v1.0.0
-  repository: homio/addon-ftp
+  version: v1.0.1
+  repository: homiodev/addon-ftp
 g-tts:
-  version: v1.0.0
-  repository: homio/addon-gcloud_tts
+  version: v1.0
+  repository: homiodev/addon-gcloud_tts
 gpio:
-  version: v1.0.0
-  repository: homio/addon-gpio
+  version: v1.0.1
+  repository: homiodev/addon-gpio
 influxdb:
-  version: v1.0.0
-  repository: homio/addon-influxdb
+  version: v1.0.1
+  repository: homiodev/addon-influxdb
 ipscanner:
-  version: v1.0.0
-  repository: homio/addon-ipscanner
+  version: v1.0.1
+  repository: homiodev/addon-ipscanner
 mail:
-  version: v1.0.0
-  repository: homio/addon-mail
+  version: v1.0.1
+  repository: homiodev/addon-mail
 mongodb:
-  version: v1.0.0
-  repository: homio/addon-mongodb
+  version: v1.0.1
+  repository: homiodev/addon-mongodb
 rabbitmq:
-  version: v1.0.0
-  repository: homio/addon-rabbitmq
+  version: v1.0.1
+  repository: homiodev/addon-rabbitmq
 serial:
-  version: v1.0.0
-  repository: homio/addon-serial
+  version: v1.0.1
+  repository: homiodev/addon-serial
 weather:
-  version: v1.0.0
-  repository: homio/addon-weather
+  version: v1.0.2
+  repository: homiodev/addon-weather
 rf433:
-  repository: homio/addon-rf433
+  repository: homiodev/addon-rf433
 zigbee:
-  repository: homio/addon-zigbee
+  repository: homiodev/addon-zigbee
