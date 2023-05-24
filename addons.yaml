@@ -8,7 +8,8 @@ firmata:
   version: v1.0.1
   repository: homiodev/addon-firmata
 ftp:
-  version: v1.0.1
+  version: v1.0.2
+  history: [v1.0.0, v1.0.1]
   repository: homiodev/addon-ftp
 g-tts:
   version: v1.0
