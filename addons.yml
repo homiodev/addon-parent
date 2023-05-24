@@ -1,43 +1,57 @@
 gdrive:
   versions: [v1.0.1]
+  platform: [all]
   repository: homiodev/addon-gdrive
 dropbox:
   versions: [v1.0.1]
+  platform: [all]
   repository: homiodev/addon-dropbox
 firmata:
   versions: [v1.0.1]
+  platform: [all]
   repository: homiodev/addon-firmata
 ftp:
   versions: [v1.0.1, v1.0.2]
+  platform: [all]
   repository: homiodev/addon-ftp
 g-tts:
   versions: [v1.0]
+  platform: [all]
   repository: homiodev/addon-gcloud_tts
 gpio:
   versions: [v1.0.1]
+  platform: [all]
   repository: homiodev/addon-gpio
 influxdb:
   versions: [v1.0.1]
+  platform: [all]
   repository: homiodev/addon-influxdb
 ipscanner:
   versions: [v1.0.1]
+  platform: [all]
   repository: homiodev/addon-ipscanner
 mail:
   versions: [v1.0.1]
+  platform: [all]
   repository: homiodev/addon-mail
 mongodb:
   versions: [v1.0.1]
+  platform: [all]
   repository: homiodev/addon-mongodb
 rabbitmq:
   versions: [v1.0.1]
+  platform: [all]
   repository: homiodev/addon-rabbitmq
 serial:
   versions: [v1.0.1]
+  platform: [all]
   repository: homiodev/addon-serial
 weather:
   versions: [v1.0.2]
+  platform: [all]
   repository: homiodev/addon-weather
 rf433:
   repository: homiodev/addon-rf433
 zigbee:
+  platform: [all]
   repository: homiodev/addon-zigbee
