@@ -24,7 +24,7 @@ ftp:
   versions: [v1.0.1, v1.0.2]
   platform: [all]
   repository: homiodev/addon-ftp
-g-tts:
+gcloud_tts:
   name: GoogleCloud Text-to-Speech
   category: Communication
   versions: [v1.0]
