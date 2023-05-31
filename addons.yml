@@ -1,85 +1,85 @@
 gdrive:
   name: Google drive
   category: Storage
-  versions: [v1.0.1]
+  versions: [1.0.1]
   platform: [all]
   repository: homiodev/addon-gdrive
 dropbox:
   name: Dropbox
   description: Dropbox storage
   category: Storage
-  versions: [v1.0.1]
+  versions: [1.0.1]
   platform: [all]
   repository: homiodev/addon-dropbox
 firmata:
   name: Firmata
   description: Firmata bundle to communicate with firmata protocol on arduino, etc...
   category: Microcontrollers
-  versions: [v1.0.1]
+  versions: [1.0.1]
   platform: [all]
   repository: homiodev/addon-firmata
 ftp:
   name: Ftp
   category: Storage
-  versions: [v1.0.1, v1.0.2]
+  versions: [1.0.1, 1.0.2]
   platform: [all]
   repository: homiodev/addon-ftp
 gcloud_tts:
   name: GoogleCloud Text-to-Speech
   category: Communication
-  versions: [v1.0]
+  versions: [1.0]
   platform: [all]
   repository: homiodev/addon-gcloud_tts
 gpio:
   name: Gpio
   category: Microcontrollers
-  versions: [v1.0.1]
+  versions: [1.0.1]
   platform: [all]
   repository: homiodev/addon-gpio
 influxdb:
   name: InfluxDB
   description: Influx DB bundle to store time-series variables to local/cloud databases
   category: Storage
-  versions: [v1.0.1]
+  versions: [1.0.1]
   platform: [all]
   repository: homiodev/addon-influxdb
 ipscanner:
   name: Angry Ip Scanner
   category: Tools
-  versions: [v1.0.1]
+  versions: [1.0.1]
   platform: [all]
   repository: homiodev/addon-ipscanner
 mail:
   name: Mail
   description: Access POP3, IMAP and SMTP servers.
   category: Communication
-  versions: [v1.0.1]
+  versions: [1.0.1]
   platform: [all]
   repository: homiodev/addon-mail
 mongodb:
   name: MongoDB
   category: Storage
-  versions: [v1.0.1]
+  versions: [1.0.1]
   platform: [all]
   repository: homiodev/addon-mongodb
 rabbitmq:
   name: RabbitMQ client
   category: Storage
-  versions: [v1.0.1]
+  versions: [1.0.1]
   platform: [all]
   repository: homiodev/addon-rabbitmq
 serial:
   name: Serial
   description: Serial bundle for usb/com port usage
   category: Communication
-  versions: [v1.0.1]
+  versions: [1.0.1]
   platform: [all]
   repository: homiodev/addon-serial
 weather:
   name: Weather
   description: Weather widget
   category: Storage
-  versions: [v1.0.2]
+  versions: [1.0.2]
   platform: [all]
   repository: homiodev/addon-weather
 rf433:
