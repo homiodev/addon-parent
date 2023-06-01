@@ -7,7 +7,7 @@
     <version>2.4.6</version>
   </parent>
 
-  <version>1.2.5</version>
+  <version>1.2.6-SNAPSHOT</version>
 
   <groupId>org.homio.addon</groupId>
   <artifactId>addon-parent</artifactId>
@@ -110,8 +110,4 @@
       </plugin>
     </plugins>
   </build>
-
-  <scm>
-    <tag>v1.2.5</tag>
-  </scm>
 </project>
