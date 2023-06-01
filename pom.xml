@@ -18,8 +18,8 @@
   <url>https://github.com/homiodev/${project.artifactId}</url>
 
   <properties>
-    <homio-hquery.version>1.0.3-SNAPSHOT</homio-hquery.version>
-    <homio-api.version>1.3.0-SNAPSHOT</homio-api.version>
+    <homio-hquery.version>1.0.3</homio-hquery.version>
+    <homio-api.version>1.3.0</homio-api.version>
   </properties>
 
   <dependencies>
