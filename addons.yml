@@ -21,7 +21,7 @@ firmata:
 ftp:
   name: Ftp
   category: Storage
-  versions: [1.0.3]
+  versions: [1.0.4]
   platform: [all]
   repository: homiodev/addon-ftp
 gcloud_tts:
