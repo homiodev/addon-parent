@@ -88,6 +88,13 @@ rf433:
   repository: homiodev/addon-rf433
 zigbee:
   name: Zigbee
-  category: Communication
+  category: Microcontrollers
   platform: [all]
   repository: homiodev/addon-zigbee
+tuya:
+  name: Tuya
+  description: Tuya wifi device support
+  category: Microcontrollers
+  versions: [1.0.0]
+  platform: [all]
+  repository: homiodev/addon-tuya
