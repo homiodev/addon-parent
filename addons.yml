@@ -98,3 +98,10 @@ tuya:
   versions: [1.0.0]
   platform: [all]
   repository: homiodev/addon-tuya
+imou:
+  name: Imou
+  description: Imou cloud devices support
+  category: Microcontrollers
+  versions: [1.0.0]
+  platform: [all]
+  repository: homiodev/addon-imou
