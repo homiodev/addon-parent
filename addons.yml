@@ -105,3 +105,17 @@ imou:
   versions: [1.0.0]
   platform: [all]
   repository: homiodev/addon-imou
+tamota:
+  name: Tasmota
+  description: Tasmota support(beta)
+  category: Microcontrollers
+  versions: [1.0.0]
+  platform: [all]
+  repository: homiodev/addon-tasmota
+esphome:
+  name: ESPHome
+  description: ESPHome support(beta)
+  category: Microcontrollers
+  versions: [1.0.0]
+  platform: [all]
+  repository: homiodev/addon-esphome
