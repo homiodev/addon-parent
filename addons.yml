@@ -1,3 +1,9 @@
+mediamdx:
+  name: Google drive
+  category: Media
+  versions: [1.0.0]
+  platform: [all]
+  repository: homiodev/addon-mediamdx
 gdrive:
   name: Google drive
   category: Storage
