@@ -1,9 +1,9 @@
 mediamdx:
-  name: Media MDX
+  name: MediaMTX
   category: Media
   versions: [1.0.0]
   platform: [all]
-  repository: homiodev/addon-mediamdx
+  repository: homiodev/addon-mediamtx
 gdrive:
   name: Google drive
   category: Storage
