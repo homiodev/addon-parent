@@ -82,12 +82,12 @@ serial:
   platform: [all]
   repository: homiodev/addon-serial
 weather:
-  name: Weather
-  description: Weather widget
-  category: Storage
-  versions: [1.0.2]
+  name: OpenWeather
+  description: OpenWeather widget/provider
+  category: Tools
+  versions: [1.1.0]
   platform: [all]
-  repository: homiodev/addon-weather
+  repository: homiodev/addon-openweathermap
 rf433:
   name: RF433
   category: Tools
