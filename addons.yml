@@ -24,12 +24,6 @@ firmata:
   versions: [1.0.1]
   platform: [all]
   repository: homiodev/addon-firmata
-ftp:
-  name: Ftp
-  category: Storage
-  versions: [1.0.4]
-  platform: [all]
-  repository: homiodev/addon-ftp
 gcloud_tts:
   name: GoogleCloud Text-to-Speech
   category: Communication
