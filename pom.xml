@@ -24,6 +24,11 @@
 
   <dependencies>
     <dependency>
+      <artifactId>jakarta.validation-api</artifactId>
+      <groupId>jakarta.validation</groupId>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
       <artifactId>homio-api</artifactId>
       <groupId>org.homio</groupId>
       <version>${homio-api.version}</version>
