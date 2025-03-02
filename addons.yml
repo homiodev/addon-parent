@@ -1,3 +1,9 @@
+mediamtx:
+  name: MediaMTX
+  category: Media
+  versions: [1.0.0]
+  platform: [all]
+  repository: homiodev/addon-mediamtx
 gdrive:
   name: Google drive
   category: Storage
@@ -8,7 +14,7 @@ dropbox:
   name: Dropbox
   description: Dropbox storage
   category: Storage
-  versions: [1.0.1]
+  versions: [1.0.3]
   platform: [all]
   repository: homiodev/addon-dropbox
 firmata:
@@ -18,12 +24,6 @@ firmata:
   versions: [1.0.1]
   platform: [all]
   repository: homiodev/addon-firmata
-ftp:
-  name: Ftp
-  category: Storage
-  versions: [1.0.4]
-  platform: [all]
-  repository: homiodev/addon-ftp
 gcloud_tts:
   name: GoogleCloud Text-to-Speech
   category: Communication
@@ -76,12 +76,12 @@ serial:
   platform: [all]
   repository: homiodev/addon-serial
 weather:
-  name: Weather
-  description: Weather widget
-  category: Storage
-  versions: [1.0.2]
+  name: OpenWeather
+  description: OpenWeather widget/provider
+  category: Tools
+  versions: [1.1.0]
   platform: [all]
-  repository: homiodev/addon-weather
+  repository: homiodev/addon-openweathermap
 rf433:
   name: RF433
   category: Tools
