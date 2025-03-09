@@ -53,7 +53,7 @@ mail:
   name: Mail
   description: Access POP3, IMAP and SMTP servers.
   category: Communication
-  versions: [1.0.1]
+  versions: [1.0.4]
   platform: [all]
   repository: homiodev/addon-mail
 mongodb:
