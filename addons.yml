@@ -52,7 +52,7 @@ influxdb:
 ipscanner:
   name: Angry Ip Scanner
   category: Tools
-  versions: [1.0.1]
+  versions: [1.0.4]
   platform: [all]
   repository: homiodev/addon-ipscanner
 mail:
