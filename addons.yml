@@ -1,6 +1,6 @@
 ibkr:
   name: IBKR
-  category: Media
+  category: Misc
   versions: [1.0.2]
   platform: [all]
   repository: homiodev/addon-ibkr
