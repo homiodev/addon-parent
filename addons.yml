@@ -1,3 +1,9 @@
+ibkr:
+  name: IBKR
+  category: Media
+  versions: [1.0.2]
+  platform: [all]
+  repository: homiodev/addon-ibkr
 mediamtx:
   name: MediaMTX
   category: Media
