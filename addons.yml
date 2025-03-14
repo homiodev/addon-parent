@@ -33,7 +33,7 @@ firmata:
 gcloud_tts:
   name: GoogleCloud Text-to-Speech
   category: Communication
-  versions: [1.0]
+  versions: [1.0.2]
   platform: [all]
   repository: homiodev/addon-gcloud_tts
 gpio:
