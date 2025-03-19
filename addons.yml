@@ -27,8 +27,8 @@ firmata:
   name: Firmata
   description: Firmata bundle to communicate with firmata protocol on arduino, etc...
   category: Microcontrollers
-  versions: [1.0.1]
-  platform: [all]
+  versions: [1.0.2]
+  platform: [win,linux-64,linux-aarch64]
   repository: homiodev/addon-firmata
 gcloud_tts:
   name: GoogleCloud Text-to-Speech
