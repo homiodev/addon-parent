@@ -1,3 +1,9 @@
+ibkr:
+  name: IBKR
+  category: Misc
+  versions: [1.0.2]
+  platform: [all]
+  repository: homiodev/addon-ibkr
 mediamtx:
   name: MediaMTX
   category: Media
@@ -21,39 +27,39 @@ firmata:
   name: Firmata
   description: Firmata bundle to communicate with firmata protocol on arduino, etc...
   category: Microcontrollers
-  versions: [1.0.1]
-  platform: [all]
+  versions: [1.0.2]
+  platform: [win,linux-64,linux-aarch64]
   repository: homiodev/addon-firmata
 gcloud_tts:
   name: GoogleCloud Text-to-Speech
   category: Communication
-  versions: [1.0]
+  versions: [1.0.2]
   platform: [all]
   repository: homiodev/addon-gcloud_tts
 gpio:
   name: Gpio
   category: Microcontrollers
-  versions: [1.0.1]
+  versions: [1.0.2]
   platform: [all]
   repository: homiodev/addon-gpio
 influxdb:
   name: InfluxDB
   description: Influx DB bundle to store time-series variables to local/cloud databases
   category: Storage
-  versions: [1.0.1]
+  versions: [1.0.2]
   platform: [all]
   repository: homiodev/addon-influxdb
 ipscanner:
   name: Angry Ip Scanner
   category: Tools
-  versions: [1.0.1]
+  versions: [1.0.4]
   platform: [all]
   repository: homiodev/addon-ipscanner
 mail:
   name: Mail
   description: Access POP3, IMAP and SMTP servers.
   category: Communication
-  versions: [1.0.1]
+  versions: [1.0.4]
   platform: [all]
   repository: homiodev/addon-mail
 mongodb:
@@ -72,7 +78,7 @@ serial:
   name: Serial
   description: Serial bundle for usb/com port usage
   category: Communication
-  versions: [1.0.1]
+  versions: [1.0.2]
   platform: [all]
   repository: homiodev/addon-serial
 weather:
@@ -86,30 +92,25 @@ rf433:
   name: RF433
   category: Tools
   repository: homiodev/addon-rf433
-zigbee:
-  name: Zigbee
-  category: Microcontrollers
-  platform: [all]
-  repository: homiodev/addon-zigbee
 tuya:
   name: Tuya
   description: Tuya wifi device support
   category: Microcontrollers
-  versions: [1.0.0]
+  versions: [1.0.1]
   platform: [all]
   repository: homiodev/addon-tuya
 imou:
   name: Imou
   description: Imou cloud devices support
   category: Microcontrollers
-  versions: [1.0.0]  
+  versions: [1.0.1]  
   platform: [all]
   repository: homiodev/addon-imou
 tasmota:
   name: Tasmota
   description: Tasmota support(beta)
   category: Microcontrollers
-  versions: [1.0.0]
+  versions: [1.0.2]
   tags: [beta]
   platform: [all]
   repository: homiodev/addon-tasmota
@@ -117,7 +118,7 @@ esphome:
   name: ESPHome
   description: ESPHome support(beta)
   category: Microcontrollers
-  versions: [1.0.0]
+  versions: [1.0.1]
   platform: [all]
   tags: [beta]
   repository: homiodev/addon-esphome
