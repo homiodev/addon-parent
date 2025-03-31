@@ -62,9 +62,11 @@
           <execution>
             <configuration>
               <archive>
+                <manifest>
+                  <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
+                </manifest>
                 <manifestEntries>
-                  <artifactId>${project.artifactId}</artifactId>
-                  <groupId>${project.groupId}</groupId>
+                  <Implementation-ArtifactId>${project.artifactId}</Implementation-ArtifactId>
                 </manifestEntries>
               </archive>
               <descriptorRefs>
