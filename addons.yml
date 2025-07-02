@@ -1,3 +1,9 @@
+homekit:
+  name: HomeKit
+  category: Misc
+  versions: [1.0.0]
+  platform: [all]
+  repository: homiodev/addon-homekit
 ibkr:
   name: IBKR
   category: Misc
